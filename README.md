@@ -106,39 +106,27 @@ Profissional de Suporte de TI com **mais de 10 anos de experiência** em infraes
 
 ## 📊 Atividade Recente
 
-<!-- GRÁFICO DE CONTRIBUIÇÕES -->
 <div align="center">
+  <!-- Gráfico de contribuições (largura total) -->
   <a href="https://github.com/tiacowlima">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=tiacowlima&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=f0883e&point=c9d1d9&area=true&hide_border=true&radius=10&custom_title=Grafico%20de%20Contribuicoes" alt="Gráfico de Atividades" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=tiacowlima&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=f0883e&point=c9d1d9&area=true&hide_border=true&radius=10&custom_title=Contribuições" alt="Gráfico de Atividades" />
   </a>
-</div>
+  <br><br>
 
-<br>
-
-<!-- CARDS DE PRODUTIVIDADE -->
-<div align="center">
-  <a href="https://github.com/tiacowlima">
-    <img height="195em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tiacowlima&theme=tokyonight" alt="Detalhes do Perfil" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/tiacowlima">
-    <img height="195em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tiacowlima&theme=tokyonight" alt="Estatísticas" />
-    &nbsp;&nbsp;
-    <img height="195em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tiacowlima&theme=tokyonight&utcOffset=-3" alt="Tempo Produtivo" />
-  </a>
-</div>
-
-<br>
-
-<!-- SEQUÊNCIA DE DIAS (STREAK) -->
-<div align="center">
-  <a href="https://github.com/tiacowlima">
-    <img height="180em" src="https://streak-stats.demolab.com?user=tiacowlima&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=F0883E&fire=F0883E&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=C9D1D9&sideLabels=8B949E&dates=8B949E&border_radius=10&locale=pt-br" alt="Streak de Dias" />
-  </a>
+  <!-- Cards lado a lado: Estatísticas | Tempo Produtivo | Streak -->
+  <table>
+    <tr>
+      <td align="center">
+        <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tiacowlima&theme=tokyonight" alt="Estatísticas" />
+      </td>
+      <td align="center">
+        <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tiacowlima&theme=tokyonight&utcOffset=-3" alt="Tempo Produtivo" />
+      </td>
+      <td align="center">
+        <img height="150em" src="https://streak-stats.demolab.com?user=tiacowlima&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=F0883E&fire=F0883E&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=C9D1D9&sideLabels=8B949E&dates=8B949E&border_radius=10&locale=pt-br" alt="Streak de Dias" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -178,9 +166,7 @@ Profissional de Suporte de TI com **mais de 10 anos de experiência** em infraes
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tiacowlima&color=blueviolet&style=flat-square&label=Visitantes&abbreviated=false" alt="Contador de Visitas" />
-  
+  <img src="https://komarev.com/ghpvc/?username=tiacowlima&color=blueviolet&style=for-the-badge&label=Visitantes" alt="Contador de Visitas" />
   <br><br>
-  
   <sub>✨ Estatísticas atualizadas automaticamente via API do GitHub ✨</sub>
 </div>
