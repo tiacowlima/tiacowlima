@@ -1,17 +1,5 @@
 # Olá, seja bem-vindo(a) ao meu perfil! 👋
 
-<div align="left">
-  <!-- Badges de Atualização Automática (Mostram quando e quanto o perfil foi editado) -->
-  <a href="https://github.com/tiacowlima/tiacowlima/commits/main">
-    <img src="https://img.shields.io/github/last-commit/tiacowlima/tiacowlima?style=for-the-badge&logo=github&color=58a6ff&label=Última%20Atualização%20do%20Perfil" alt="Último Commit" />
-  </a>
-  <a href="https://github.com/tiacowlima/tiacowlima/commits/main">
-    <img src="https://img.shields.io/github/commit-activity/y/tiacowlima/tiacowlima?style=for-the-badge&logo=git&color=f0883e&label=Edições%20no%20Último%20Ano" alt="Atividade de Commits" />
-  </a>
-</div>
-
-<br>
-
 ### Sou **Tiago Lima**
 
 ### Analista de Suporte de TI & Desenvolvedor de Software em Formação
@@ -96,12 +84,18 @@ Profissional de Suporte de TI com **mais de 10 anos de experiência** em infraes
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <!-- BADGES OFICIAIS (Não quebram e carregam rápido) -->
+  <!-- BADGES DE COMMITS E PERFIL (Movidas para cá conforme solicitado) -->
+  <a href="https://github.com/tiacowlima/tiacowlima/commits/main">
+    <img src="https://img.shields.io/github/last-commit/tiacowlima/tiacowlima?style=for-the-badge&logo=github&color=58a6ff&label=Último%20Commit" alt="Último Commit" />
+  </a>
+  <a href="https://github.com/tiacowlima/tiacowlima/commits/main">
+    <img src="https://img.shields.io/github/commit-activity/y/tiacowlima/tiacowlima?style=for-the-badge&logo=git&color=f0883e&label=Edições%20no%20Ano" alt="Atividade de Commits" />
+  </a>
   <a href="https://github.com/tiacowlima?tab=followers">
     <img src="https://img.shields.io/github/followers/tiacowlima?label=Seguidores&style=for-the-badge&color=3fb950&logo=github" alt="Seguidores" />
   </a>
   <a href="https://github.com/tiacowlima?tab=repositories">
-    <img src="https://img.shields.io/github/repos/tiacowlima?label=Repositórios&style=for-the-badge&color=58a6ff&logo=github" alt="Repositórios" />
+    <img src="https://img.shields.io/github/repos/tiacowlima?label=Repositórios&style=for-the-badge&color=8957e5&logo=github" alt="Repositórios" />
   </a>
 </div>
 
@@ -110,10 +104,10 @@ Profissional de Suporte de TI com **mais de 10 anos de experiência** em infraes
 <!-- GRÁFICO DE ESTATÍSTICAS GERAIS -->
 <div align="center">
   <a href="https://github.com/tiacowlima">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiacowlima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f0883e&text_color=c9d1d9&border_radius=10&custom_title=📈%20Estat%C3%ADsticas%20Gerais&locale=pt-br" alt="Estatísticas Gerais" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiacowlima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f0883e&text_color=c9d1d9&border_radius=10&custom_title=Estatisticas%20Gerais&locale=pt-br" alt="Estatísticas Gerais" />
   </a>
   <a href="https://github.com/tiacowlima">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiacowlima&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10&custom_title=💻%20Linguagens%20Mais%20Usadas&locale=pt-br" alt="Linguagens Mais Usadas" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiacowlima&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10&custom_title=Linguagens%20Mais%20Usadas&locale=pt-br" alt="Linguagens Mais Usadas" />
   </a>
 </div>
 
@@ -135,7 +129,7 @@ Profissional de Suporte de TI com **mais de 10 anos de experiência** em infraes
 <!-- GRÁFICO DE CONTRIBUIÇÕES -->
 <div align="center">
   <a href="https://github.com/tiacowlima">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=tiacowlima&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=f0883e&point=c9d1d9&area=true&hide_border=true&radius=10&custom_title=📊%20Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es" alt="Gráfico de Atividades" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=tiacowlima&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=f0883e&point=c9d1d9&area=true&hide_border=true&radius=10&custom_title=Grafico%20de%20Contribuicoes" alt="Gráfico de Atividades" />
   </a>
 </div>
 
@@ -159,7 +153,7 @@ Profissional de Suporte de TI com **mais de 10 anos de experiência** em infraes
 
 <br>
 
-<!-- SEQUÊNCIA DE DIAS -->
+<!-- SEQUÊNCIA DE DIAS (STREAK) -->
 <div align="center">
   <a href="https://github.com/tiacowlima">
     <img height="180em" src="https://streak-stats.demolab.com?user=tiacowlima&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=F0883E&fire=F0883E&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=C9D1D9&sideLabels=8B949E&dates=8B949E&border_radius=10&locale=pt-br" alt="Streak de Dias" />
@@ -202,7 +196,7 @@ Profissional de Suporte de TI com **mais de 10 anos de experiência** em infraes
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tiacowlima&color=blueviolet&style=flat-square&label=👁️%20Visitantes" alt="Contador de Visitas" />
+  <img src="https://komarev.com/ghpvc/?username=tiacowlima&color=blueviolet&style=flat-square&label=Visitantes" alt="Contador de Visitas" />
   
   <br><br>
   
