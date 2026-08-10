@@ -113,7 +113,7 @@ Profissional de Suporte de TI com **mais de 10 anos de experiência** em infraes
   </a>
   <br><br>
 
-  <!-- Seção organizada em grade (2 colunas por linha ou blocos padronizados) para evitar quebras visuais -->
+  <!-- Seção organizada em grade (2 colunas por linha) -->
   <table width="100%">
     <tr>
       <td align="center" width="50%" valign="top">
@@ -131,9 +131,9 @@ Profissional de Suporte de TI com **mais de 10 anos de experiência** em infraes
         <img src="https://streak-stats.demolab.com?user=tiacowlima&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=F0883E&fire=F0883E&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=C9D1D9&sideLabels=8B949E&dates=8B949E&border_radius=10&locale=pt-br" alt="Streak de Dias" width="100%" />
       </td>
       <td align="center" width="50%" valign="top">
-        <!-- TROFÉUS (Corrigido para SVG direto para garantir exibição correta) -->
+        <!-- TROFÉUS (configuração limpa, exibe o que você tiver) -->
         <a href="https://github.com/tiacowlima?tab=repositories" target="_blank">
-          <img src="https://github-profile-trophy.vercel.app/?username=tiacowlima&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4&row=1&column=3" alt="Troféus do GitHub" width="100%" />
+          <img src="https://github-profile-trophy.vercel.app/?username=tiacowlima&row=1" alt="Troféus do GitHub" width="100%" />
         </a>
       </td>
     </tr>
