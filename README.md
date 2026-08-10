@@ -1,10 +1,22 @@
 # Olá, seja bem-vindo(a) ao meu perfil! 👋
 
+<div align="left">
+  <!-- Badges de Atualização Automática (Mostram quando e quanto o perfil foi editado) -->
+  <a href="https://github.com/tiacowlima/tiacowlima/commits/main">
+    <img src="https://img.shields.io/github/last-commit/tiacowlima/tiacowlima?style=for-the-badge&logo=github&color=58a6ff&label=Última%20Atualização%20do%20Perfil" alt="Último Commit" />
+  </a>
+  <a href="https://github.com/tiacowlima/tiacowlima/commits/main">
+    <img src="https://img.shields.io/github/commit-activity/y/tiacowlima/tiacowlima?style=for-the-badge&logo=git&color=f0883e&label=Edições%20no%20Último%20Ano" alt="Atividade de Commits" />
+  </a>
+</div>
+
+<br>
+
 ### Sou **Tiago Lima**
 
 ### Analista de Suporte de TI & Desenvolvedor de Software em Formação
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** 💻 e profissional com sólida atuação em **Suporte de TI, Redes e Service Desk (N1/N2) Suporte Remoto.**
+Sou estudante de **Análise e Desenvolvimento de Sistemas** 💻 e profissional com sólida atuação em **Suporte de TI, Redes e Service Desk (N1/N2) Suporte Remoto.** 
 
 Meu objetivo é unir a eficiência na resolução de problemas de infraestrutura à criação de soluções de software modernas e funcionais.
 
@@ -37,6 +49,7 @@ Profissional de Suporte de TI com **mais de 10 anos de experiência** em infraes
 * **Equipamentos Críticos:** Configuração e suporte a PDVs, balanças eletrônicas, impressoras térmicas e scanners de mão.
 
 ---
+
 ## 🌐 Infraestrutura e Tecnologias
 
 * **Suporte Técnico:** Service Desk N1/N2, Help Desk e atendimento a incidentes 🎧.
@@ -45,17 +58,19 @@ Profissional de Suporte de TI com **mais de 10 anos de experiência** em infraes
 
 ---
 
-## 💻 Linguagens e Automação em aprendizado
+## 💻 Linguagens e Automação em Aprendizado
 
 * **Python:** Utilizado para desenvolvimento e automação de processos 🐍.
 * **PowerShell:** Automação de tarefas administrativas e suporte a sistemas Windows ⚡.
 
 ---
 
-## 🎨 Competências Complementares Design
+## 🎨 Competências Complementares em Design
+
 * **Softwares de Criação:** Adobe Photoshop, Adobe Illustrator e Canva.
 
 ---
+
 ## 🎯 Interesses de Desenvolvimento
 
 * **Criação de Softwares:** Foco no planejamento, construção e evolução de aplicações eficientes e estruturadas 🛠️.
@@ -66,66 +81,49 @@ Profissional de Suporte de TI com **mais de 10 anos de experiência** em infraes
 
 <p align="left">
     <a href="https://www.linkedin.com/in/tiagolima-analistati" target="_blank">
-        <img 
-            alt="LinkedIn" 
-            title="Conecte-se comigo no LinkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
+        <img alt="LinkedIn" title="Conecte-se comigo no LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://tiagopriestes.wixsite.com/portifolio" target="_blank">
-        <img 
-            alt="Portfólio" 
-            title="Acesse meu Portfólio" 
-            src="https://img.shields.io/badge/Portf%C3%B3lio-Visitar-FF7139?style=for-the-badge&logo=website&logoColor=white"
-        />
+        <img alt="Portfólio" title="Acesse meu Portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-Visitar-FF7139?style=for-the-badge&logo=website&logoColor=white" />
     </a>
     <a href="mailto:tiago.priestes@gmail.com" target="_blank">
-        <img 
-            alt="E-mail" 
-            title="Gmail" 
-            src="https://img.shields.io/badge/Gmail-FF7139?style=for-the-badge&logo=gmail&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/tiacowlima?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/badge/Estrelas-2-55960c?style=for-the-badge&logo=star-fill&logoColor=white"
-        />
-    </a> 
-    <a href="https://github.com/tiacowlima?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/tiacowlima?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-fill&logoColor=white&label=Seguidores"
-        />
+        <img alt="E-mail" title="Gmail" src="https://img.shields.io/badge/Gmail-FF7139?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/tiacowlima">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiacowlima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f0883e&text_color=c9d1d9&border_radius=10&custom_title=Estatísticas%20do%20Perfil"/>
+  <!-- BADGES OFICIAIS (Não quebram e carregam rápido) -->
+  <a href="https://github.com/tiacowlima?tab=followers">
+    <img src="https://img.shields.io/github/followers/tiacowlima?label=Seguidores&style=for-the-badge&color=3fb950&logo=github" alt="Seguidores" />
   </a>
-  <a href="https://github.com/tiacowlima">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiacowlima&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/tiacowlima">
-    <img height="180em" src="https://streak-stats.demolab.com?user=tiacowlima&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=F0883E&fire=F0883E&currStreakLabel=C9D1D9&border_radius=10"/>
+  <a href="https://github.com/tiacowlima?tab=repositories">
+    <img src="https://img.shields.io/github/repos/tiacowlima?label=Repositórios&style=for-the-badge&color=58a6ff&logo=github" alt="Repositórios" />
   </a>
 </div>
 
+<br>
+
+<!-- GRÁFICO DE ESTATÍSTICAS GERAIS -->
 <div align="center">
-  <img src="https://img.shields.io/badge/📁%20Repositórios-30-58a6ff?style=for-the-badge&labelColor=0d1117&border_radius=10" />
-  <img src="https://img.shields.io/badge/⭐%20Estrelas-2-f0883e?style=for-the-badge&labelColor=0d1117&border_radius=10" />
-  <img src="https://img.shields.io/badge/👥%20Seguidores-1-3fb950?style=for-the-badge&labelColor=0d1117&border_radius=10" />
-  <img src="https://img.shields.io/badge/📈%20Commits-500+-8957e5?style=for-the-badge&labelColor=0d1117&border_radius=10" />
+  <a href="https://github.com/tiacowlima">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiacowlima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f0883e&text_color=c9d1d9&border_radius=10&custom_title=📈%20Estat%C3%ADsticas%20Gerais&locale=pt-br" alt="Estatísticas Gerais" />
+  </a>
+  <a href="https://github.com/tiacowlima">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiacowlima&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10&custom_title=💻%20Linguagens%20Mais%20Usadas&locale=pt-br" alt="Linguagens Mais Usadas" />
+  </a>
+</div>
+
+<br>
+
+<!-- TROFÉUS DO GITHUB -->
+<div align="center">
+  <a href="https://github.com/tiacowlima">
+    <img src="https://github-profile-trophy.vercel.app/?username=tiacowlima&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6&title=Multilinguagem,Estrelas,Seguidores,Repositórios,Commits,Issues" alt="Troféus" />
+  </a>
 </div>
 
 <br>
@@ -134,22 +132,37 @@ Profissional de Suporte de TI com **mais de 10 anos de experiência** em infraes
 
 ## 📊 Atividade Recente
 
+<!-- GRÁFICO DE CONTRIBUIÇÕES -->
 <div align="center">
   <a href="https://github.com/tiacowlima">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tiacowlima&theme=tokyonight" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=tiacowlima&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=f0883e&point=c9d1d9&area=true&hide_border=true&radius=10&custom_title=📊%20Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es" alt="Gráfico de Atividades" />
   </a>
 </div>
 
+<br>
+
+<!-- CARDS DE PRODUTIVIDADE -->
 <div align="center">
   <a href="https://github.com/tiacowlima">
-    <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tiacowlima&theme=tokyonight"/>
-    <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tiacowlima&theme=tokyonight&utcOffset=-3"/>
+    <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tiacowlima&theme=tokyonight" alt="Detalhes do Perfil" />
   </a>
 </div>
 
+<br>
+
 <div align="center">
   <a href="https://github.com/tiacowlima">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=tiacowlima&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=f0883e&point=c9d1d9&area=true&hide_border=true&radius=10" />
+    <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tiacowlima&theme=tokyonight" alt="Estatísticas" />
+    <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tiacowlima&theme=tokyonight&utcOffset=-3" alt="Tempo Produtivo" />
+  </a>
+</div>
+
+<br>
+
+<!-- SEQUÊNCIA DE DIAS -->
+<div align="center">
+  <a href="https://github.com/tiacowlima">
+    <img height="180em" src="https://streak-stats.demolab.com?user=tiacowlima&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=F0883E&fire=F0883E&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=C9D1D9&sideLabels=8B949E&dates=8B949E&border_radius=10&locale=pt-br" alt="Streak de Dias" />
   </a>
 </div>
 
@@ -162,7 +175,7 @@ Profissional de Suporte de TI com **mais de 10 anos de experiência** em infraes
 
 ---
 
-⭐ Se você gosta do meu trabalho, considere adicionar um repositório aos seus favoritos.
+⭐ Se você gosta do meu trabalho, considere adicionar um repositório aos seus favoritos.<br>
 🤝 Sempre aberto a colaborações, parcerias e ideias inovadoras.
 
 ---
@@ -189,5 +202,9 @@ Profissional de Suporte de TI com **mais de 10 anos de experiência** em infraes
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tiacowlima&color=blueviolet&style=flat-square&label=👁️%20Visitantes" />
+  <img src="https://komarev.com/ghpvc/?username=tiacowlima&color=blueviolet&style=flat-square&label=👁️%20Visitantes" alt="Contador de Visitas" />
+  
+  <br><br>
+  
+  <sub>✨ Estatísticas atualizadas automaticamente via API do GitHub ✨</sub>
 </div>
