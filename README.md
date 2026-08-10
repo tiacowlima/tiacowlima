@@ -1,5 +1,6 @@
 # Olá, seja bem-vindo(a) ao meu perfil! 👋
 
+
 ### Sou **Tiago Lima**
 
 ### Analista de Suporte de TI & Desenvolvedor de Software em Formação
@@ -37,7 +38,6 @@ Profissional de Suporte de TI com **mais de 10 anos de experiência** em infraes
 * **Equipamentos Críticos:** Configuração e suporte a PDVs, balanças eletrônicas, impressoras térmicas e scanners de mão.
 
 ---
-
 ## 🌐 Infraestrutura e Tecnologias
 
 * **Suporte Técnico:** Service Desk N1/N2, Help Desk e atendimento a incidentes 🎧.
@@ -46,19 +46,17 @@ Profissional de Suporte de TI com **mais de 10 anos de experiência** em infraes
 
 ---
 
-## 💻 Linguagens e Automação em Aprendizado
+## 💻 Linguagens e Automação em aprendizado
 
 * **Python:** Utilizado para desenvolvimento e automação de processos 🐍.
 * **PowerShell:** Automação de tarefas administrativas e suporte a sistemas Windows ⚡.
 
 ---
 
-## 🎨 Competências Complementares em Design
-
+## 🎨 Competências Complementares Design
 * **Softwares de Criação:** Adobe Photoshop, Adobe Illustrator e Canva.
 
 ---
-
 ## 🎯 Interesses de Desenvolvimento
 
 * **Criação de Softwares:** Foco no planejamento, construção e evolução de aplicações eficientes e estruturadas 🛠️.
@@ -69,58 +67,41 @@ Profissional de Suporte de TI com **mais de 10 anos de experiência** em infraes
 
 <p align="left">
     <a href="https://www.linkedin.com/in/tiagolima-analistati" target="_blank">
-        <img alt="LinkedIn" title="Conecte-se comigo no LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+        <img 
+            alt="LinkedIn" 
+            title="Conecte-se comigo no LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
     </a>
     <a href="https://tiagopriestes.wixsite.com/portifolio" target="_blank">
-        <img alt="Portfólio" title="Acesse meu Portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-Visitar-FF7139?style=for-the-badge&logo=website&logoColor=white" />
+        <img 
+            alt="Portfólio" 
+            title="Acesse meu Portfólio" 
+            src="https://img.shields.io/badge/Portf%C3%B3lio-Visitar-FF7139?style=for-the-badge&logo=website&logoColor=white"
+        />
     </a>
     <a href="mailto:tiago.priestes@gmail.com" target="_blank">
-        <img alt="E-mail" title="Gmail" src="https://img.shields.io/badge/Gmail-FF7139?style=for-the-badge&logo=gmail&logoColor=white" />
+        <img 
+            alt="E-mail" 
+            title="Gmail" 
+            src="https://img.shields.io/badge/Gmail-FF7139?style=for-the-badge&logo=gmail&logoColor=white"
+        />
+    </a>
+    <a href="https://github.com/tiacowlima?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://img.shields.io/badge/Estrelas-2-55960c?style=for-the-badge&logo=star&logoColor=white"
+        />
+    </a>
+    <a href="https://github.com/tiacowlima?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://img.shields.io/github/followers/tiacowlima?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
     </a>
 </p>
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <!-- BADGES DE COMMITS E PERFIL (Movidas para cá conforme solicitado) -->
-  <a href="https://github.com/tiacowlima/tiacowlima/commits/main">
-    <img src="https://img.shields.io/github/last-commit/tiacowlima/tiacowlima?style=for-the-badge&logo=github&color=58a6ff&label=Último%20Commit" alt="Último Commit" />
-  </a>
-  <a href="https://github.com/tiacowlima/tiacowlima/commits/main">
-    <img src="https://img.shields.io/github/commit-activity/y/tiacowlima/tiacowlima?style=for-the-badge&logo=git&color=f0883e&label=Edições%20no%20Ano" alt="Atividade de Commits" />
-  </a>
-  <a href="https://github.com/tiacowlima?tab=followers">
-    <img src="https://img.shields.io/github/followers/tiacowlima?label=Seguidores&style=for-the-badge&color=3fb950&logo=github" alt="Seguidores" />
-  </a>
-  <a href="https://github.com/tiacowlima?tab=repositories">
-    <img src="https://img.shields.io/github/repos/tiacowlima?label=Repositórios&style=for-the-badge&color=8957e5&logo=github" alt="Repositórios" />
-  </a>
-</div>
-
-<br>
-
-<!-- GRÁFICO DE ESTATÍSTICAS GERAIS -->
-<div align="center">
-  <a href="https://github.com/tiacowlima">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiacowlima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f0883e&text_color=c9d1d9&border_radius=10&custom_title=Estatisticas%20Gerais&locale=pt-br" alt="Estatísticas Gerais" />
-  </a>
-  <a href="https://github.com/tiacowlima">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiacowlima&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10&custom_title=Linguagens%20Mais%20Usadas&locale=pt-br" alt="Linguagens Mais Usadas" />
-  </a>
-</div>
-
-<br>
-
-<!-- TROFÉUS DO GITHUB -->
-<div align="center">
-  <a href="https://github.com/tiacowlima">
-    <img src="https://github-profile-trophy.vercel.app/?username=tiacowlima&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6&title=Multilinguagem,Estrelas,Seguidores,Repositórios,Commits,Issues" alt="Troféus" />
-  </a>
-</div>
-
-<br>
 
 ---
 
@@ -162,10 +143,11 @@ Profissional de Suporte de TI com **mais de 10 anos de experiência** em infraes
 
 ---
 
-## 🚀 Filosofia
+### 🚀 Filosofia
 
-> "Programar não se trata apenas de resolver problemas.
-> Trata-se de construir soluções que sejam escaláveis, duradouras e que gerem valor real."
+ "Programar não se trata apenas de resolver problemas".
+
+ "Trata-se de construir soluções que sejam escaláveis, duradouras e que gerem valor real."
 
 ---
 
