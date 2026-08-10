@@ -107,54 +107,39 @@ Profissional de Suporte de TI com **mais de 10 anos de experiência** em infraes
 ## 📊 Atividade Recente
 
 <div align="center">
-  <!-- Gráfico de contribuições (largura total) - usando tema mais estável -->
+  <!-- Gráfico de contribuições (largura total) -->
   <a href="https://github.com/tiacowlima">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=tiacowlima&theme=github" alt="Gráfico de Atividades" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=tiacowlima&theme=github" alt="Gráfico de Atividades" width="100%" />
   </a>
   <br><br>
 
-  <!-- Cards lado a lado: Estatísticas | Tempo Produtivo | Streak | Troféus -->
-  <table>
+  <!-- Seção organizada em grade (2 colunas por linha ou blocos padronizados) para evitar quebras visuais -->
+  <table width="100%">
     <tr>
-      <td align="center">
+      <td align="center" width="50%" valign="top">
         <!-- ESTATÍSTICAS -->
-        <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tiacowlima&theme=tokyonight" alt="Estatísticas" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tiacowlima&theme=tokyonight" alt="Estatísticas" width="100%" />
       </td>
-      <td align="center">
+      <td align="center" width="50%" valign="top">
         <!-- TEMPO PRODUTIVO -->
-        <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tiacowlima&theme=tokyonight&utcOffset=-3" alt="Tempo Produtivo" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tiacowlima&theme=tokyonight&utcOffset=-3" alt="Tempo Produtivo" width="100%" />
       </td>
-      <td align="center">
+    </tr>
+    <tr>
+      <td align="center" width="50%" valign="top">
         <!-- STREAK -->
-        <img height="150em" src="https://streak-stats.demolab.com?user=tiacowlima&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=F0883E&fire=F0883E&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=C9D1D9&sideLabels=8B949E&dates=8B949E&border_radius=10&locale=pt-br" alt="Streak de Dias" />
+        <img src="https://streak-stats.demolab.com?user=tiacowlima&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=F0883E&fire=F0883E&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=C9D1D9&sideLabels=8B949E&dates=8B949E&border_radius=10&locale=pt-br" alt="Streak de Dias" width="100%" />
       </td>
-      <td align="center">
-        <!-- TROFÉUS CORRIGIDOS: com contador dinâmico e imagem funcional -->
-        <div align="center">
-          <!-- Badge com contagem dinâmica (via API) -->
-          <a href="https://github.com/tiacowlima?tab=repositories" target="_blank">
-            <img 
-              src="https://img.shields.io/badge/dynamic/json?label=Troféus&query=%24.length&url=https%3A%2F%2Fgithub-profile-trophy.vercel.app%2Fapi%3Fusername%3Dtiacowlima&color=ff69b4&style=for-the-badge&logo=github&labelColor=1a1a2e" 
-              alt="Contagem de Troféus do GitHub" 
-            />
-          </a>
-          <br><br>
-          <!-- Imagem dos troféus (com fallback visual) -->
-          <a href="https://github.com/tiacowlima?tab=repositories" target="_blank">
-            <img 
-              src="https://github-profile-trophy.vercel.app/?username=tiacowlima&theme=tokyonight&no-frame=true&row=2&column=3" 
-              alt="Troféus do GitHub" 
-              title="Clique para ver todos os repositórios" 
-              width="100%"
-              style="max-width: 600px;"
-            />
-          </a>
-          <br>
-          <sub>✨ Contagem atualizada automaticamente via API ✨</sub>
-        </div>
+      <td align="center" width="50%" valign="top">
+        <!-- TROFÉUS (Corrigido para SVG direto para garantir exibição correta) -->
+        <a href="https://github.com/tiacowlima?tab=repositories" target="_blank">
+          <img src="https://github-profile-trophy.vercel.app/?username=tiacowlima&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4&row=1&column=3" alt="Troféus do GitHub" width="100%" />
+        </a>
       </td>
     </tr>
   </table>
+  <br>
+  <sub>✨ Estatísticas e troféus atualizados automaticamente via API ✨</sub>
 </div>
 
 ---
