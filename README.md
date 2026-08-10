@@ -129,15 +129,29 @@ Profissional de Suporte de TI com **mais de 10 anos de experiência** em infraes
         <img height="150em" src="https://streak-stats.demolab.com?user=tiacowlima&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=F0883E&fire=F0883E&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=C9D1D9&sideLabels=8B949E&dates=8B949E&border_radius=10&locale=pt-br" alt="Streak de Dias" />
       </td>
       <td align="center">
-        <!-- TROFÉUS - com fallback visual (badge + link) -->
-        <a href="https://github.com/tiacowlima?tab=repositories" target="_blank">
-          <img height="150em" src="https://github-profile-trophy.vercel.app/?username=tiacowlima&theme=tokyonight&no-frame=true" alt="Troféus do GitHub" title="Troféus do GitHub" />
-        </a>
-        <br>
-        <!-- Badge estático de fallback que sempre aparece -->
-        <a href="https://github.com/tiacowlima?tab=repositories" target="_blank">
-          <img src="https://img.shields.io/badge/🏆-Troféus-ff69b4?style=for-the-badge&logo=github" alt="Ver Troféus" />
-        </a>
+        <!-- TROFÉUS CORRIGIDOS: com contador dinâmico e imagem funcional -->
+        <div align="center">
+          <!-- Badge com contagem dinâmica (via API) -->
+          <a href="https://github.com/tiacowlima?tab=repositories" target="_blank">
+            <img 
+              src="https://img.shields.io/badge/dynamic/json?label=Troféus&query=%24.length&url=https%3A%2F%2Fgithub-profile-trophy.vercel.app%2Fapi%3Fusername%3Dtiacowlima&color=ff69b4&style=for-the-badge&logo=github&labelColor=1a1a2e" 
+              alt="Contagem de Troféus do GitHub" 
+            />
+          </a>
+          <br><br>
+          <!-- Imagem dos troféus (com fallback visual) -->
+          <a href="https://github.com/tiacowlima?tab=repositories" target="_blank">
+            <img 
+              src="https://github-profile-trophy.vercel.app/?username=tiacowlima&theme=tokyonight&no-frame=true&row=2&column=3" 
+              alt="Troféus do GitHub" 
+              title="Clique para ver todos os repositórios" 
+              width="100%"
+              style="max-width: 600px;"
+            />
+          </a>
+          <br>
+          <sub>✨ Contagem atualizada automaticamente via API ✨</sub>
+        </div>
       </td>
     </tr>
   </table>
