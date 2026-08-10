@@ -140,7 +140,7 @@ Profissional de Suporte de TI com **mais de 10 anos de experiência** em infraes
   <br>
   <sub>✨ Estatísticas e troféus atualizados automaticamente via API ✨</sub>
 
-  <sub>✨ Se não aprecer os troféus e porque site esta fora ✨</sub>
+  <sub>✨ Se não aparecer os troféus e porque serviço esta fora ✨</sub>
 </div>
 
 ---
