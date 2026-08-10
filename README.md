@@ -107,9 +107,9 @@ Profissional de Suporte de TI com **mais de 10 anos de experiência** em infraes
 ## 📊 Atividade Recente
 
 <div align="center">
-  <!-- Gráfico de contribuições (largura total) -->
+  <!-- Gráfico de contribuições (largura total) - usando tema mais estável -->
   <a href="https://github.com/tiacowlima">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=tiacowlima&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=f0883e&point=c9d1d9&area=true&hide_border=true&radius=10&custom_title=Contribuições" alt="Gráfico de Atividades" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=tiacowlima&theme=github" alt="Gráfico de Atividades" />
   </a>
   <br><br>
 
@@ -117,18 +117,26 @@ Profissional de Suporte de TI com **mais de 10 anos de experiência** em infraes
   <table>
     <tr>
       <td align="center">
+        <!-- ESTATÍSTICAS -->
         <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tiacowlima&theme=tokyonight" alt="Estatísticas" />
       </td>
       <td align="center">
+        <!-- TEMPO PRODUTIVO -->
         <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tiacowlima&theme=tokyonight&utcOffset=-3" alt="Tempo Produtivo" />
       </td>
       <td align="center">
+        <!-- STREAK -->
         <img height="150em" src="https://streak-stats.demolab.com?user=tiacowlima&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=F0883E&fire=F0883E&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=C9D1D9&sideLabels=8B949E&dates=8B949E&border_radius=10&locale=pt-br" alt="Streak de Dias" />
       </td>
       <td align="center">
-        <!-- Link para o serviço de troféus + imagem com tema onedark (mais compatível) -->
-        <a href="https://github-profile-trophy.vercel.app/?username=tiacowlima" target="_blank">
-          <img height="180em" src="https://github-profile-trophy.vercel.app/?username=tiacowlima&theme=onedark" alt="Troféus do GitHub" title="Troféus do GitHub" loading="lazy" />
+        <!-- TROFÉUS - com fallback visual (badge + link) -->
+        <a href="https://github.com/tiacowlima?tab=repositories" target="_blank">
+          <img height="150em" src="https://github-profile-trophy.vercel.app/?username=tiacowlima&theme=tokyonight&no-frame=true" alt="Troféus do GitHub" title="Troféus do GitHub" />
+        </a>
+        <br>
+        <!-- Badge estático de fallback que sempre aparece -->
+        <a href="https://github.com/tiacowlima?tab=repositories" target="_blank">
+          <img src="https://img.shields.io/badge/🏆-Troféus-ff69b4?style=for-the-badge&logo=github" alt="Ver Troféus" />
         </a>
       </td>
     </tr>
