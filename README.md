@@ -153,8 +153,9 @@ Profissional de Suporte de TI com **mais de 10 anos de experiência** em infraes
 
 ---
 
-⭐ Se você gosta do meu trabalho, considere adicionar um repositório aos seus favoritos.<br>
-🤝 Sempre aberto a colaborações, parcerias e ideias inovadoras.
+✨ Gostou do meu trabalho? Siga o meu perfil e adicione uma ⭐ aos favoritos!.<br>
+
+🚀 Estou sempre aberto a conexões, 🤝 parcerias e ideias inovadoras. 
 
 ---
 
@@ -166,17 +167,16 @@ Profissional de Suporte de TI com **mais de 10 anos de experiência** em infraes
     <img alt="VS Code" title="VS Code" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
     <img alt="PowerShell" title="PowerShell" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
     <img alt="Python" title="Python" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />    
-    <img alt="HTML" title="HTML" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-    <img alt="JavaScript" title="JavaScript" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />   
     <img alt="Git" title="Git" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />  
     <img alt="Adobe Photoshop" title="Adobe Photoshop" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
     <img alt="Adobe Illustrator" title="Adobe Illustrator" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" />
     <img alt="Canva" title="Canva" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
 </p>
 
+---
 <br>
 
----
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=tiacowlima&color=blueviolet&style=for-the-badge&label=Visitantes" alt="Contador de Visitas" />
