@@ -107,39 +107,40 @@ Profissional de Suporte de TI com **mais de 10 anos de experiência** em infraes
 ## 📊 Atividade Recente
 
 <div align="center">
-  <!-- Gráfico de contribuições (largura total) -->
+  <!-- Gráfico de contribuições - escuro com azul -->
   <a href="https://github.com/tiacowlima">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=tiacowlima&theme=github" alt="Gráfico de Atividades" width="100%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=tiacowlima&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&area=true&area_color=58A6FF&title_color=58A6FF&hide_border=true" alt="Gráfico de Atividades" width="100%" />
   </a>
   <br><br>
 
-  <!-- Seção organizada em grade (2 colunas por linha) -->
   <table width="100%">
     <tr>
       <td align="center" width="50%" valign="top">
         <!-- ESTATÍSTICAS -->
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tiacowlima&theme=tokyonight" alt="Estatísticas" width="100%" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tiacowlima&theme=github_dark" alt="Estatísticas" width="100%" />
       </td>
       <td align="center" width="50%" valign="top">
         <!-- TEMPO PRODUTIVO -->
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tiacowlima&theme=tokyonight&utcOffset=-3" alt="Tempo Produtivo" width="100%" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tiacowlima&theme=github_dark&utcOffset=-3" alt="Tempo Produtivo" width="100%" />
       </td>
     </tr>
     <tr>
       <td align="center" width="50%" valign="top">
-        <!-- STREAK -->
-        <img src="https://streak-stats.demolab.com?user=tiacowlima&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=F0883E&fire=F0883E&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=C9D1D9&sideLabels=8B949E&dates=8B949E&border_radius=10&locale=pt-br" alt="Streak de Dias" width="100%" />
+        <!-- STREAK (fundo escuro e detalhes azuis) -->
+        <img src="https://streak-stats.demolab.com?user=tiacowlima&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=58A6FF&currStreakNum=58A6FF&sideLabels=8B949E&dates=8B949E&border_radius=10&locale=pt-br" alt="Streak de Dias" width="100%" />
       </td>
       <td align="center" width="50%" valign="top">
-        <!-- TROFÉUS (configuração limpa, exibe o que você tiver) -->
+        <!-- TROFÉUS (tema escuro, sem parâmetros problemáticos) -->
         <a href="https://github.com/tiacowlima?tab=repositories" target="_blank">
-          <img src="https://github-profile-trophy.vercel.app/?username=tiacowlima&row=1" alt="Troféus do GitHub" width="100%" />
+          <img src="https://github-profile-trophy.vercel.app/?username=tiacowlima&theme=dark&row=1&column=-1" alt="Troféus do GitHub" width="100%" />
         </a>
       </td>
     </tr>
   </table>
   <br>
   <sub>✨ Estatísticas e troféus atualizados automaticamente via API ✨</sub>
+
+  <sub>✨ Se não aprecer os troféus e porque site esta fora ✨</sub>
 </div>
 
 ---
