@@ -1,6 +1,5 @@
 # Olá, seja bem-vindo(a) ao meu perfil! 👋
 
-
 ### Sou **Tiago Lima**
 
 ### Analista de Suporte de TI & Desenvolvedor de Software em Formação
@@ -119,7 +118,7 @@ Profissional de Suporte de TI com **mais de 10 anos de experiência** em infraes
 <!-- CARDS DE PRODUTIVIDADE -->
 <div align="center">
   <a href="https://github.com/tiacowlima">
-    <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tiacowlima&theme=tokyonight" alt="Detalhes do Perfil" />
+    <img height="195em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tiacowlima&theme=tokyonight" alt="Detalhes do Perfil" />
   </a>
 </div>
 
@@ -127,8 +126,9 @@ Profissional de Suporte de TI com **mais de 10 anos de experiência** em infraes
 
 <div align="center">
   <a href="https://github.com/tiacowlima">
-    <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tiacowlima&theme=tokyonight" alt="Estatísticas" />
-    <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tiacowlima&theme=tokyonight&utcOffset=-3" alt="Tempo Produtivo" />
+    <img height="195em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tiacowlima&theme=tokyonight" alt="Estatísticas" />
+    &nbsp;&nbsp;
+    <img height="195em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tiacowlima&theme=tokyonight&utcOffset=-3" alt="Tempo Produtivo" />
   </a>
 </div>
 
@@ -145,9 +145,9 @@ Profissional de Suporte de TI com **mais de 10 anos de experiência** em infraes
 
 ### 🚀 Filosofia
 
- "Programar não se trata apenas de resolver problemas".
-
- "Trata-se de construir soluções que sejam escaláveis, duradouras e que gerem valor real."
+"Programar não se trata apenas de resolver problemas."
+ 
+"Trata-se de construir soluções que sejam escaláveis, duradouras e que gerem valor real."
 
 ---
 
@@ -178,7 +178,7 @@ Profissional de Suporte de TI com **mais de 10 anos de experiência** em infraes
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tiacowlima&color=blueviolet&style=flat-square&label=Visitantes" alt="Contador de Visitas" />
+  <img src="https://komarev.com/ghpvc/?username=tiacowlima&color=blueviolet&style=flat-square&label=Visitantes&abbreviated=false" alt="Contador de Visitas" />
   
   <br><br>
   
