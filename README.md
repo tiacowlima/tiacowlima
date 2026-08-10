@@ -126,8 +126,10 @@ Profissional de Suporte de TI com **mais de 10 anos de experiência** em infraes
         <img height="150em" src="https://streak-stats.demolab.com?user=tiacowlima&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=F0883E&fire=F0883E&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=C9D1D9&sideLabels=8B949E&dates=8B949E&border_radius=10&locale=pt-br" alt="Streak de Dias" />
       </td>
       <td align="center">
-        <!-- URL corrigida com parâmetros mínimos para melhor compatibilidade -->
-        <img height="150em" src="https://github-profile-trophy.vercel.app/?username=tiacowlima&theme=tokyonight&no-frame=true" alt="Troféus" loading="lazy" />
+        <!-- Link para o serviço de troféus + imagem com tema onedark (mais compatível) -->
+        <a href="https://github-profile-trophy.vercel.app/?username=tiacowlima" target="_blank">
+          <img height="180em" src="https://github-profile-trophy.vercel.app/?username=tiacowlima&theme=onedark" alt="Troféus do GitHub" title="Troféus do GitHub" loading="lazy" />
+        </a>
       </td>
     </tr>
   </table>
