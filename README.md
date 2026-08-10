@@ -10,8 +10,8 @@ Meu objetivo é unir a eficiência na resolução de problemas de infraestrutura
 
 ---
 
-### Desenvolvimento de Software
-* **Formação Atual:** 📚 Cursando Análise e Desenvolvimento de Sistemas.
+### 📚 Desenvolvimento de Software
+* **Formação Atual:** Cursando Análise e Desenvolvimento de Sistemas.
 * **Foco:** Criação de aplicações funcionais, automação de processos.
 
 ---
