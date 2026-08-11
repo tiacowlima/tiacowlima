@@ -153,15 +153,17 @@ Profissional de Suporte de TI com **mais de 10 anos de experiência** em infraes
 
 ---
 
+### 💻 Link do meu trabalho pessoal 
+
+https://github.com/tiacowlima/Help-Dek-Otimzado
+
 ✨ Gostou do meu trabalho? Siga o meu perfil e adicione uma ⭐ aos favoritos!.<br>
 
 🚀 Estou sempre aberto a conexões, 🤝 parcerias e ideias inovadoras. 
 
+😊 Feedbacks e sugestões são bem-vindos, fiquem à vontade para enviar uma mensagem.
+
 ---
-Link do meu trabalho pessoal 
-
-Feedbacks e sugestões são bem-vindos. Fiquem à vontade para enviar uma mensagem ou se conectar. 😊
-
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -179,8 +181,6 @@ Feedbacks e sugestões são bem-vindos. Fiquem à vontade para enviar uma mensag
 
 ---
 <br>
-
-
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=tiacowlima&color=blueviolet&style=for-the-badge&label=Visitantes" alt="Contador de Visitas" />
