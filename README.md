@@ -158,6 +158,10 @@ Profissional de Suporte de TI com **mais de 10 anos de experiência** em infraes
 🚀 Estou sempre aberto a conexões, 🤝 parcerias e ideias inovadoras. 
 
 ---
+Link do meu trabalho pessoal 
+
+Feedbacks e sugestões são bem-vindos. Fiquem à vontade para enviar uma mensagem ou se conectar. 😊
+
 
 ### 🤖 Linguagens e Tecnologias
 
