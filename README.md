@@ -161,7 +161,7 @@ https://github.com/tiacowlima/Help-Dek-Otimzado
 
 🚀 Estou sempre aberto a conexões, 🤝 parcerias e ideias inovadoras. 
 
-😊 Feedbacks e sugestões são bem-vindos, fiquem à vontade para enviar uma mensagem.
+😊 Feedbacks e sugestões são bem-vindos, sinta -se à vontade para enviar uma mensagem.
 
 ---
 
