@@ -153,9 +153,9 @@ Profissional de Suporte de TI com **mais de 10 anos de experiência** em infraes
 
 ---
 
-### 💻 Link do meu trabalho pessoal 
+### 💻 Projeto em destaque
 
-### 💼 https://github.com/tiacowlima/Help-Dek-Otimzado
+### 💼[Help-Desk Otimizado](https://github.com/tiacowlima/Help-Dek-Otimzado): Solução desenvolvida para aprimorar processos de suporte. *(Clique para acessar o repositório)*
 
 ---
 
