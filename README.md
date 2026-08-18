@@ -58,9 +58,9 @@ Profissional de Suporte de TI com **mais de 10 anos de experiência** em infraes
 ---
 ## 🎯 Interesses de Desenvolvimento
 
-* **Criação de Softwares:** Foco no planejamento, construção e evolução de aplicações eficientes e estruturadas 🛠️.
+* **Criação de Softwares:** Foco no planejamento, construção e evolução de aplicações eficientes e estruturadas, otimizando a automação de processos. 🛠️.
 
----
+  ---
 
 ## 📧 Contato
 
