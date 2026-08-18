@@ -4,15 +4,9 @@
 
 ### Analista de Suporte de TI & Desenvolvedor de Software em Formação
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas pela Cruzeiro do Sul Virtual** 💻 e profissional com sólida atuação em **Suporte de TI, Redes e Service Desk (N1/N2) Suporte Remoto.** 
+Sou estudante de **Análise e Desenvolvimento de Sistemas pela Cruzeiro do Sul Virtual** 💻 e profissional com sólida atuação em **Técnico de Suporte TI & Redes | Foco em Suporte Remoto | Service Desk N1/N2 | Help Desk** 
 
 Meu objetivo é unir a eficiência na resolução de problemas de infraestrutura à criação de soluções de software modernas e funcionais.
-
----
-
-### 📚 Desenvolvimento de Software
-* **Formação Atual:** Cursando Análise e Desenvolvimento de Sistemas.
-* **Foco:** Criação de aplicações funcionais, automação de processos.
 
 ---
 
