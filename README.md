@@ -19,19 +19,25 @@ Atualmente, meu foco está em evoluir em infraestrutura e automação de process
 ## 🎯 Foco e Competências
 
 ### 🖥️ Infraestrutura & Suporte Técnico
-* **Sistemas e Redes:** Diagnóstico e resolução em ambientes Windows e Linux, domínio em arquitetura de redes TCP/IP, roteamento e cabeamento.
-* **Service Desk:** Atendimento N1/N2 focado em reduzir o tempo de inatividade (*downtime*) e garantir alta satisfação dos usuários.
-* **Ferramentas Remotas:** Uso de soluções líderes de mercado para suporte rápido e eficiente à distância.
+
+* **Service Desk:** Atendimento N1/N2 focado em reduzir o tempo de inatividade (*downtime*) e garantir alta satisfação dos usuários 🎧.
+
+* **Sistemas e Redes:** Diagnóstico e resolução em ambientes Windows e Linux, domínio em arquitetura de redes TCP/IP, roteamento e cabeamento 🖧.
+
+* **Ferramentas Remotas:** Uso de soluções líderes de mercado para suporte rápido e eficiente à distância 💻.
 
 ### 🛠️ Automação Comercial & Hardware
+
 * **Equipamentos Críticos:** Tenho facilidade para diagnosticar falhas rapidamente e manter equipamentos críticos (computadores, impressoras, balanças e scanners) operando com máxima eficiência.
 * **Estabilidade de Varejo:** Garantia de continuidade das operações em ambientes corporativos de alta exigência.
 
 ### 💻 Linguagens e Automação em Aprendizagem
+
 * **Análise e Desenvolvimento:** Foco no planejamento e construção de soluções modernas.
 * **Linguagens de Apoio:** Uso de **PowerShell** ⚡ para tarefas administrativas em Windows e **Python** 🐍 para automação e otimização de rotinas.
 
 ### 🎨 Design & Experiência Visual
+
 * **Softwares de Criação:** Adobe Photoshop, Adobe Illustrator e Canva.
 * **Diferencial:** Trago um olhar visual fundamentado no Design para entregar soluções sistêmicas e documentações que sejam mais organizadas, intuitivas e fáceis de usar.
 
@@ -165,7 +171,6 @@ Se quiser trocar uma ideia sobre tecnologia, suporte, design ou parcerias, fique
 
   <sub>✨ Se não aparecer os troféus é porque o serviço está fora ✨</sub>
 </div>
-
 
 ---
 <br>
