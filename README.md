@@ -5,7 +5,7 @@
 
 ---
 
-## 🙋‍♂️ Sobre Mim
+## 👨‍💻 Sobre Mim
 
 Há mais de 10 anos atuo em suporte técnico e infraestrutura de TI, garantindo a estabilidade de ambientes de varejo e automação comercial.
 
@@ -20,7 +20,7 @@ Tenho facilidade para diagnosticar falhas rapidamente e manter equipamentos crí
 
 ---
 
-### 🖥️ Infraestrutura & Suporte Técnico
+### ⚙️ Infraestrutura & Suporte Técnico
 
 * **Service Desk:** Atendimento N1/N2 focado em reduzir o tempo de inatividade (*downtime*) e garantir alta satisfação dos usuários 🎧.
 
@@ -28,16 +28,16 @@ Tenho facilidade para diagnosticar falhas rapidamente e manter equipamentos crí
 
 * **Ferramentas Remotas:** Uso de soluções líderes de mercado para suporte rápido e eficiente à distância 💻.
 
-### 🛠️ Automação Comercial & Hardware
+### 🖨️ Automação Comercial & Hardware
 
 * **Equipamentos Críticos:** Tenho facilidade para diagnosticar falhas rapidamente e manter equipamentos críticos (computadores, impressoras, balanças e scanners) operando com máxima eficiência.
 * **Estabilidade de Varejo:** Garantia de continuidade das operações em ambientes corporativos de alta exigência.
 
 ---
 
-### 💻 Linguagens e Automação em Aprendizagem
+### 💻 Linguagens e Automação em Aprendizagem 
 
-* **Análise e Desenvolvimento:** Foco no planejamento e construção de soluções modernas.
+* **Análise e Desenvolvimento:** Foco no planejamento e construção de soluções modernas.🛠️
 * **Linguagens de Apoio:** Uso de **PowerShell** ⚡ para tarefas administrativas em Windows e **Python** 🐍 para automação e otimização de rotinas.
 
 ---
@@ -102,7 +102,7 @@ Se quiser trocar uma ideia sobre tecnologia, suporte, design ou parcerias, fique
 
 ---
 
-### 🚀 Filosofia
+### 💡 Filosofia
 
 "A tecnologia só cumpre seu papel quando melhora a vida das pessoas."
  
@@ -116,11 +116,11 @@ Se quiser trocar uma ideia sobre tecnologia, suporte, design ou parcerias, fique
 
 ---
 
-✨ Gostou do meu perfil? Me siga e adicione uma ⭐ aos meus repositórios!<br>
+🔥 Gostou do meu perfil? Me siga e adicione uma ⭐ aos meus repositórios!<br>
 
-🚀 Estou sempre aberto a conexões, 🤝 parcerias e ideias inovadoras. 
+⚡ Estou sempre aberto a conexões, 🤝 parcerias e ideias inovadoras. 
 
-😊 Feedbacks e sugestões são bem-vindos, sinta-se à vontade para enviar uma mensagem.
+💬 Feedbacks e sugestões são bem-vindos, sinta-se à vontade para enviar uma mensagem.
 
 ---
 
