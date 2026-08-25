@@ -12,7 +12,7 @@ Há mais de 10 anos atuo em suporte técnico e infraestrutura de TI, garantindo 
 Mais do que resolver problemas em hardware, redes TCP/IP e sistemas Windows/Linux, o que realmente me motiva é ajudar as pessoas a trabalharem com tranquilidade e sem interrupções. 
 Tenho facilidade para diagnosticar falhas rapidamente e manter equipamentos críticos (computadores, impressoras, balanças e scanners) operando com máxima eficiência.
 
-### 🎓Atualmente, meu foco está em evoluir em infraestrutura e automação de processos, além de aprofundar meus conhecimentos em programação por meio da graduação em 💻 ADS, que estou cursando na Cruzeiro do Sul Virtual.
+### Atualmente, meu foco está em evoluir em infraestrutura e automação de processos, além de aprofundar meus conhecimentos em programação por meio da graduação em 💻 ADS, que estou cursando na 🎓 Cruzeiro do Sul Virtual.
 
 ---
 
