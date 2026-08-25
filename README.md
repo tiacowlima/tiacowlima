@@ -14,7 +14,7 @@ Tenho facilidade para diagnosticar falhas rapidamente e manter equipamentos crí
 
 ---
 
-## 🎯 Foco e Competências
+### 🎯 Foco e Competências
 
 ### Atualmente, meu foco está em evoluir em infraestrutura e automação de processos, além de aprofundar meus conhecimentos em programação por meio da graduação em 💻 ADS, que estou cursando na 🎓 Cruzeiro do Sul Virtual.
 
@@ -33,15 +33,20 @@ Tenho facilidade para diagnosticar falhas rapidamente e manter equipamentos crí
 * **Equipamentos Críticos:** Tenho facilidade para diagnosticar falhas rapidamente e manter equipamentos críticos (computadores, impressoras, balanças e scanners) operando com máxima eficiência.
 * **Estabilidade de Varejo:** Garantia de continuidade das operações em ambientes corporativos de alta exigência.
 
+---
+
 ### 💻 Linguagens e Automação em Aprendizagem
 
 * **Análise e Desenvolvimento:** Foco no planejamento e construção de soluções modernas.
 * **Linguagens de Apoio:** Uso de **PowerShell** ⚡ para tarefas administrativas em Windows e **Python** 🐍 para automação e otimização de rotinas.
 
+---
+
 ### 🎨 Design & Experiência Visual
 
 * **Softwares de Criação:** Adobe Photoshop, Adobe Illustrator e Canva.
 * **Diferencial:** Trago um olhar visual fundamentado no Design para entregar soluções sistêmicas e documentações que sejam mais organizadas, intuitivas e fáceis de usar.
+---
 
 ### 🤝 Soft Skills
 
