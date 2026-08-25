@@ -126,6 +126,5 @@ Se quiser trocar uma ideia sobre tecnologia, suporte, design ou parcerias, fique
 
 ⚡ Estou sempre aberto a conexões, 🤝 parcerias e ideias inovadoras. 
 
-💬 Feedbacks e sugestões são bem-vindos, sinta-se à vontade para enviar uma mensagem.
-
+💬 Feedbacks e sugestões são bem-vindos, me envie uma mensagem.
 ---
