@@ -16,7 +16,13 @@ Tenho facilidade para diagnosticar falhas rapidamente e manter equipamentos crí
 
 ### 🎯 Foco e Competências
 
-### Atualmente, meu foco está em evoluir em infraestrutura e automação de processos, além de aprofundar meus conhecimentos em programação por meio da graduação em 💻 ADS, que estou cursando na 🎓 Cruzeiro do Sul Virtual.
+* **Atualmente, meu foco está em evoluir em infraestrutura e automação de processos, além de aprofundar meus conhecimentos em programação por meio da graduação em 💻 ADS, que estou cursando na 🎓 Cruzeiro do Sul Virtual.**
+
+---
+
+### ✅ Objetivo
+
+* **Melhorar cada dia mais e aperfeiçoar meu fluxo de trabalho.**
 
 ---
 
@@ -123,28 +129,3 @@ Se quiser trocar uma ideia sobre tecnologia, suporte, design ou parcerias, fique
 💬 Feedbacks e sugestões são bem-vindos, sinta-se à vontade para enviar uma mensagem.
 
 ---
-
-### 🤖 Linguagens e Tecnologias
-
-<p align="left">
-    <img alt="Windows" title="Windows" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
-    <img alt="Linux" title="Linux" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-    <img alt="VS Code" title="VS Code" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-    <img alt="PowerShell" title="PowerShell" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
-    <img alt="Python" title="Python" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />    
-    <img alt="GitHub" title="GitHub" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />  
-    <img alt="Adobe Photoshop" title="Adobe Photoshop" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
-    <img alt="Adobe Illustrator" title="Adobe Illustrator" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" />
-    <img alt="Canva" title="Canva" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
-</p>
- 
-</div>
-
----
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tiacowlima&color=blueviolet&style=for-the-badge&label=Visitantes" alt="Contador de Visitas" />
-  <br><br>
-  <sub>✨ Estatísticas atualizadas automaticamente via API do GitHub ✨</sub>
-</div>
