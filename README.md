@@ -133,7 +133,7 @@ Se quiser trocar uma ideia sobre tecnologia, suporte, design ou parcerias, fique
 
 ---
 
-## 💼 Projeto em Destaque
+### 💼 Projeto em destaque
 
 ### 💡 [Help-Desk Otimizado](https://github.com/tiacowlima/Help-Dek-Otimzado)
 
