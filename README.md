@@ -20,7 +20,7 @@ Meu objetivo é combinar **conhecimento técnico, agilidade e foco no usuário**
 
 Atualmente, direciono minha carreira para oportunidades em **Service Desk N1/N2, Suporte Técnico, Suporte Remoto e Infraestrutura de TI**.
 
-Paralelamente, estou ampliando meus conhecimentos em **programação e automação de processos**, buscando desenvolver soluções que contribuam para a otimização de rotinas e melhoria da eficiência operacional.
+Paralelamente, estou ampliando meus conhecimentos em **programação e automação de processos**, buscando desenvolver soluções que contribuam para a otimização de rotinas e melhoria da eficiência operacional, além de aprofundar meus conhecimentos em programação por meio da graduação em 💻 ADS, que estou cursando na 🎓 Cruzeiro do Sul Virtual.**
 
 ---
 
@@ -42,12 +42,6 @@ Paralelamente, estou ampliando meus conhecimentos em **programação e automaç�
 * 🖨️ Suporte a **impressoras térmicas, balanças e leitores**
 * 📝 Criação de documentação técnica e materiais de apoio
 * ⚡ Atuação orientada à **redução do tempo de inatividade (*downtime*)**
-
----
-
-### 🎯 Foco e Competências
-
-* Atualmente, meu foco está em evoluir em infraestrutura e automação de processos, além de aprofundar meus conhecimentos em programação por meio da graduação em 💻 ADS, que estou cursando na 🎓 Cruzeiro do Sul Virtual.**
 
 ---
 
@@ -137,9 +131,9 @@ Estou aberto a **conexões profissionais, oportunidades, parcerias e troca de co
 
 ## 💡 Filosofia
 
-> **"A tecnologia só cumpre seu papel quando melhora a vida das pessoas."**
+**"A tecnologia só cumpre seu papel quando melhora a vida das pessoas."**
 
-> **"Programar não é apenas resolver problemas, mas construir soluções eficientes, intuitivas e capazes de gerar valor real."**
+**"Programar não é apenas resolver problemas, mas construir soluções eficientes, intuitivas e capazes de gerar valor real."**
 
 ---
 
