@@ -143,6 +143,8 @@ Solução desenvolvida com foco na **otimização de processos de suporte e orga
 
 ---
 
+###
+
 🔥 Gostou do meu perfil? Me siga e adicione uma ⭐ aos meus repositórios!<br>
 
 ⚡ Estou sempre aberto a conexões, 🤝 parcerias e ideias inovadoras. 
