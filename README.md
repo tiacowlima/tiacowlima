@@ -20,7 +20,7 @@ Meu objetivo é combinar **conhecimento técnico, agilidade e foco no usuário**
 
 Atualmente, direciono minha carreira para oportunidades em **Service Desk N1/N2, Suporte Técnico, Suporte Remoto e Infraestrutura de TI**.
 
-Paralelamente, estou ampliando meus conhecimentos em **programação e automação de processos**, buscando desenvolver soluções que contribuam para a otimização de rotinas e melhoria da eficiência operacional, além de aprofundar meus conhecimentos em programação por meio da graduação em 💻 ADS, que estou cursando na 🎓 Cruzeiro do Sul Virtual.**
+Estou ampliando meus conhecimentos em **programação e automação de processos**, buscando desenvolver soluções que contribuam para a otimização de rotinas e melhoria da eficiência operacional, além de aprofundar meus conhecimentos em programação por meio da graduação em 💻 ADS, que estou cursando na 🎓 Cruzeiro do Sul Virtual.
 
 ---
 
@@ -133,9 +133,9 @@ Se quiser trocar uma ideia sobre tecnologia, suporte, design ou parcerias, fique
 
 ---
 
-### 💼 Projeto em destaque
+### 🧰 Projeto em destaque
 
-### 💡 [Help-Desk Otimizado](https://github.com/tiacowlima/Help-Dek-Otimzado)
+### 🏆 [Help-Desk Otimizado](https://github.com/tiacowlima/Help-Dek-Otimzado)
 
 Solução desenvolvida com foco na **otimização de processos de suporte e organização das rotinas de atendimento**.
 
