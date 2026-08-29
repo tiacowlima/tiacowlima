@@ -139,7 +139,7 @@ Se quiser trocar uma ideia sobre tecnologia, suporte, design ou parcerias, fique
 
 Solução desenvolvida com foco na **otimização de processos de suporte e organização das rotinas de atendimento**.
 
-🔗 **[Acessar o repositório](https://github.com/tiacowlima/Help-Dek-Otimzado)**
+🔗 *(Clique para acessar o repositório)*
 
 ---
 
