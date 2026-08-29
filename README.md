@@ -83,48 +83,44 @@ A combinação entre **tecnologia e design** permite desenvolver **documentaçõ
 
 ## 📧 Conexões e Contato
 
-Estou aberto a **conexões profissionais, oportunidades, parcerias e troca de conhecimentos** nas áreas de tecnologia, suporte, infraestrutura, automação e design.
+Se quiser trocar uma ideia sobre tecnologia, suporte, design ou parcerias, fique à vontade! 
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/tiagolima-analistati" target="_blank">
-    <img
-      alt="LinkedIn"
-      title="Conecte-se comigo no LinkedIn"
-      src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    />
-  </a>
-
-  <a href="https://tiagopriestes.wixsite.com/portifolio" target="_blank">
-    <img
-      alt="Portfólio"
-      title="Acesse meu portfólio"
-      src="https://img.shields.io/badge/Portf%C3%B3lio-Visitar-FF7139?style=for-the-badge&logo=google-chrome&logoColor=white"
-    />
-  </a>
-
-  <a href="mailto:tiago.priestes@gmail.com">
-    <img
-      alt="E-mail"
-      title="Entre em contato por e-mail"
-      src="https://img.shields.io/badge/E--mail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-    />
-  </a>
-
-  <a href="https://github.com/tiacowlima?tab=repositories&sort=stargazers">
-    <img
-      alt="Estrelas"
-      title="Confira meus repositórios"
-      src="https://img.shields.io/badge/Reposit%C3%B3rios-Explorar-55960c?style=for-the-badge&logo=github&logoColor=white"
-    />
-  </a>
-
-  <a href="https://github.com/tiacowlima?tab=followers">
-    <img
-      alt="Seguidores"
-      title="Siga meu perfil no GitHub"
-      src="https://img.shields.io/github/followers/tiacowlima?style=for-the-badge&logo=github&label=Seguidores"
-    />
-  </a>
+    <a href="https://www.linkedin.com/in/tiagolima-analistati" target="_blank">
+        <img 
+            alt="LinkedIn" 
+            title="Conecte-se comigo no LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+    <a href="https://tiagopriestes.wixsite.com/portifolio" target="_blank">
+        <img 
+            alt="Portfólio" 
+            title="Acesse meu Portfólio" 
+            src="https://img.shields.io/badge/Portf%C3%B3lio-Visitar-FF7139?style=for-the-badge&logo=website&logoColor=white"
+        />
+    </a>
+    <a href="mailto:tiago.priestes@gmail.com" target="_blank">
+        <img 
+            alt="E-mail" 
+            title="Gmail" 
+            src="https://img.shields.io/badge/Gmail-FF7139?style=for-the-badge&logo=gmail&logoColor=white"
+        />
+    </a>
+    <a href="https://github.com/tiacowlima?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://img.shields.io/badge/Estrelas-2-55960c?style=for-the-badge&logo=star&logoColor=white"
+        />
+    </a>
+    <a href="https://github.com/tiacowlima?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://img.shields.io/github/followers/tiacowlima?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
 </p>
 
 ---
