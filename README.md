@@ -113,7 +113,8 @@ Se quiser trocar uma ideia sobre tecnologia, suporte, design ou parcerias, fique
 
 ### 💼 Projeto em Destaque
 
-### 💡 [Help-Desk Otimizado](https://github.com/tiacowlima/Help-Dek-Otimzado): Solução desenvolvida para aprimorar processos de suporte. *(Clique para acessar o repositório)*
+### 💡 [Help-Desk Otimizado](https://github.com/tiacowlima/Help-Dek-Otimzado): Solução desenvolvida para aprimorar processos de suporte. 
+*(Clique para acessar o repositório)*
 
 ---
 
