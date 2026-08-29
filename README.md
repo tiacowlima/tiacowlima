@@ -1,16 +1,17 @@
 # Olá, seja bem-vindo(a) ao meu perfil! 👋
 
 ### Sou **Tiago Lima**
-### Estudante de ADS | Aspirante Técnico de Suporte TI & Redes | Foco em Suporte Remoto | Service Desk N1/N2 | Help Desk
+### Suporte de TI & Redes | Analista de Service Desk N1/N2 | Suporte de Infraestrutura | Suporte Remoto | Automação Comercial | Estudante de ADS
 
 ---
 
 ## 👨‍💻 Sobre Mim
 
-Há mais de 10 anos atuo em suporte técnico e infraestrutura de TI, garantindo a estabilidade de ambientes de varejo e automação comercial.
+Há mais de 10 anos atuo em suporte técnico e suporte de infraestrutura de redes locais, garantindo a estabilidade e a alta disponibilidade de ambientes de varejo e automação comercial.
 
-Mais do que resolver problemas em hardware, redes TCP/IP e sistemas Windows/Linux, o que realmente me motiva é ajudar as pessoas a trabalharem com tranquilidade e sem interrupções. 
-Tenho facilidade para diagnosticar falhas rapidamente e manter equipamentos críticos (computadores, impressoras, balanças e scanners) operando com máxima eficiência.
+Mais do que resolver problemas em hardware, redes locais e sistemas operacionais (Windows/Linux), o que realmente me motiva é ajudar as pessoas a trabalharem com tranquilidade e sem interrupções. 
+
+Tenho sólida experiência em diagnóstico rápido de falhas e na manutenção de equipamentos críticos de PDV, como computadores, impressoras térmicas, balanças e scanners, operando com máxima eficiência.
 
 ---
 
@@ -22,28 +23,21 @@ Tenho facilidade para diagnosticar falhas rapidamente e manter equipamentos crí
 
 ### ✅ Objetivo
 
-* **Melhorar cada dia mais e aperfeiçoar meu fluxo de trabalho.**
+* **Melhorar a cada dia e aperfeiçoar o meu fluxo de trabalho.**
 
 ---
 
-### ⚙️ Infraestrutura & Suporte Técnico
+### ⚙️ Suporte Técnico & Redes Locais
 
-* **Service Desk:** Atendimento N1/N2 focado em reduzir o tempo de inatividade (*downtime*) e garantir alta satisfação dos usuários 🎧.
-
-* **Sistemas e Redes:** Diagnóstico e resolução em ambientes Windows e Linux, domínio em arquitetura de redes TCP/IP, roteamento e cabeamento 🖧.
-
-* **Ferramentas Remotas:** Uso de soluções líderes de mercado para suporte rápido e eficiente à distância 💻.
-
-### 🖨️ Automação Comercial & Hardware
-
-* **Equipamentos Críticos:** Tenho facilidade para diagnosticar falhas rapidamente e manter equipamentos críticos (computadores, impressoras, balanças e scanners) operando com máxima eficiência.
-* **Estabilidade de Varejo:** Garantia de continuidade das operações em ambientes corporativos de alta exigência.
+* **Service Desk:** Atendimento N1/N2 focado na resolução ágil de incidentes, redução de tempo de inatividade (*downtime*) e suporte remoto eficiente 🎧.
+* **Sistemas e Redes:** Configuração de roteadores, redes locais (LAN/WLAN), montagem e manutenção de cabos de rede (crimpagem RJ-45), testes de conectividade e suporte operacional a sistemas Windows e Linux 🖧.
+* **Automação Comercial:** Manutenção preventiva e corretiva de hardware e equipamentos críticos de PDV (impressoras térmicas, balanças e leitores de código de barras) 🖨️.
 
 ---
 
-### 💻 Linguagens e Automação em Aprendizagem 
+### 💻 Linguagens e Automação (Em Aprendizado)
 
-* **Análise e Desenvolvimento:** Foco no planejamento e construção de soluções modernas.🛠️
+* **Análise e Desenvolvimento:** Foco no planejamento e na construção de soluções modernas. 🛠️
 * **Linguagens de Apoio:** Uso de **PowerShell** ⚡ para tarefas administrativas em Windows e **Python** 🐍 para automação e otimização de rotinas.
 
 ---
@@ -52,13 +46,14 @@ Tenho facilidade para diagnosticar falhas rapidamente e manter equipamentos crí
 
 * **Softwares de Criação:** Adobe Photoshop, Adobe Illustrator e Canva.
 * **Diferencial:** Trago um olhar visual fundamentado no Design para entregar soluções sistêmicas e documentações que sejam mais organizadas, intuitivas e fáceis de usar.
+
 ---
 
 ### 🤝 Soft Skills
 
-* Valorizo a colaboração, trabalho em equipe.
-* Escuta ativa e a diversidade no ambiente de trabalho.
-* Mantendo foco em aprendizado contínuo.
+* Colaboração e trabalho em equipe.
+* Escuta ativa e valorização da diversidade no ambiente de trabalho.
+* Foco em aprendizado contínuo.
 * Inteligência emocional.
 * Resolução assertiva de problemas.
 
@@ -116,7 +111,7 @@ Se quiser trocar uma ideia sobre tecnologia, suporte, design ou parcerias, fique
 
 ---
 
-### 💼 Projeto em destaque
+### 💼 Projeto em Destaque
 
 ### 💡 [Help-Desk Otimizado](https://github.com/tiacowlima/Help-Dek-Otimzado): Solução desenvolvida para aprimorar processos de suporte. *(Clique para acessar o repositório)*
 
@@ -128,3 +123,4 @@ Se quiser trocar uma ideia sobre tecnologia, suporte, design ou parcerias, fique
 
 💬 Feedbacks e sugestões são bem-vindos, me envie uma mensagem.
 ---
+
