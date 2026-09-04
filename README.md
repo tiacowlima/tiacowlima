@@ -20,8 +20,7 @@ Meu objetivo é combinar **conhecimento técnico, agilidade e foco no usuário**
 
 Atualmente, direciono minha carreira para oportunidades em **Service Desk N1/N2, Suporte Técnico, Suporte Remoto e Infraestrutura de TI**.
 
-Estou ampliando meus conhecimentos em **programação e automação de processos**, buscando desenvolver soluções que contribuam para a otimização de rotinas e melhoria da eficiência operacional, além de aprofundar meus conhecimentos em programação por meio da graduação em 💻 ADS, que estou cursando na 🎓 Cruzeiro do Sul Virtual.
-
+Estou ampliando meus conhecimentos em **programação e automação de processos**, buscando desenvolver soluções que contribuam para a otimização de rotinas e melhoria da eficiência operacional, além de aprofundar meus conhecimentos em programação.
 ---
 
 ## ✅ Objetivo
