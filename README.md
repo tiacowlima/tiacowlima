@@ -2,7 +2,7 @@
 
 ## Sou **Tiago Lima**
 
-**Suporte de TI & Redes | Analista de Service Desk N1/N2 | Suporte Remoto | Automação Comercial | Estudante de ADS**
+**Suporte de TI & Redes | Analista de Service Desk N1/N2 | Suporte Remoto | Automação Comercial**
 
 ---
 
