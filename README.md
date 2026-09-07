@@ -151,10 +151,8 @@ Solução desenvolvida com foco na **otimização de processos de suporte e orga
 ⚡ Estou sempre aberto a conexões, 🤝 parcerias e ideias inovadoras. 
 
 💬 Feedbacks e sugestões são bem-vindos, me envie uma mensagem.
+
 ---
-
-
-
 
 ### 🤖 Linguagens e Tecnologias
 
