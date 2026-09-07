@@ -46,6 +46,8 @@ Estou ampliando meus conhecimentos em **programação e automação de processos
 
 ## 💻 Linguagens e Automação — Em Aprendizado
 
+* 🌲**Cypress** - para teste QA Software
+* 🌐 **HTML** - criação de Landing page para teste
 * ⚡ **PowerShell** — automação e administração de ambientes Windows
 * 🐍 **Python** — automação de tarefas e otimização de rotinas
 * 🧠 **Lógica de programação** — desenvolvimento e resolução estruturada de problemas
