@@ -40,6 +40,7 @@ Estou ampliando meus conhecimentos em **programação e automação de processos
 * 🏪 Suporte a ambientes de **Automação Comercial e PDV**
 * 🖨️ Suporte a **impressoras térmicas, balanças e leitores**
 * 📝 Criação de documentação técnica e materiais de apoio
+* 🔧 Troubleshooting e Diagnóstico de Sistemas
 * ⚡ Atuação orientada à **redução do tempo de inatividade (*downtime*)**
 
 ---
