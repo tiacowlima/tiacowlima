@@ -31,17 +31,17 @@ Estou ampliando meus conhecimentos em **programação e automação de processos
 
 ## ⚙️ Suporte Técnico & Redes Locais
 
-* 🖥️ Suporte a sistemas operacionais **Windows e Linux**
-* 🔧 Manutenção de hardware e diagnóstico de incidentes
-* 🎧 Suporte remoto e atendimento de **Service Desk N1/N2**
-* 🌐 Configuração e troubleshooting de redes **TCP/IP, LAN e WLAN**
-* 🔌 Testes de conectividade e diagnóstico de problemas de rede
-* 🛠️ Crimpagem e montagem de cabos de rede **RJ-45**
-* 🏪 Suporte a ambientes de **Automação Comercial e PDV**
-* 🖨️ Suporte a **impressoras térmicas, balanças e leitores**
-* 📝 Criação de documentação técnica e materiais de apoio
-* 🔧 Troubleshooting e Diagnóstico de Sistemas
-* ⚡ Atuação orientada à **redução do tempo de inatividade (*downtime*)**
+* 🖥️ **Suporte a sistemas operacionais Windows e Linux**
+* 🔧 **Manutenção de hardware e diagnóstico de incidentes**
+* 🎧 **Suporte remoto e atendimento de Service Desk N1/N2**
+* 🌐 **Configuração e troubleshooting de redes TCP/IP, LAN e WLAN**
+* 🔌 **Testes de conectividade e diagnóstico de problemas de rede**
+* 🛠️ **Crimpagem e montagem de cabos de rede RJ-45**
+* 🏪 **Suporte a ambientes de Automação Comercial e PDV**
+* 🖨️ **Suporte a impressoras térmicas, balanças e leitores**
+* 📝 **Criação de documentação técnica e materiais de apoio**
+* 🔧 **Troubleshooting e Diagnóstico de Sistemas** <EN>
+* ⚡ **Atuação orientada à redução do tempo de inatividade (*downtime*)**
 
 ---
 
@@ -173,8 +173,6 @@ Solução desenvolvida com foco na **otimização de processos de suporte e orga
     <img alt="Canva" title="Canva" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
        
 </p>
-
-<br>
 
 ---
 
