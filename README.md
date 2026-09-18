@@ -30,21 +30,21 @@ Estou ampliando meus conhecimentos em **programação e automação de processos
 
 ---
 
-## ⚙️ Suporte Técnico & Redes Locais
+## ⚙️ Suporte Técnico N1/N2 & Redes Locais
 
-* 🖥️ **Suporte a sistemas operacionais Windows e Linux**
-* 🎧 **Suporte remoto e atendimento de Service Desk N1/N2 (triagem, priorização e escalonamento)**
-* 🎫 **Gestão do ciclo de vida de Tickets/Chamados (abertura, acompanhamento, documentação e encerramento)**
-* ⏱️ **Monitoramento e cumprimento de SLAs para garantir a agilidade e a excelência no atendimento ao usuário**
-* 🔧 **Manutenção de hardware e diagnóstico de incidentes**
+* ⚡ **Atuação orientada à redução do tempo de inatividade (*downtime*)**
 * 🌐 **Configuração e troubleshooting de redes TCP/IP, LAN e WLAN**
-* 🔌 **Testes de conectividade e diagnóstico de problemas de rede**
+* 📝 **Criação de documentação técnica, base de conhecimento e materiais de apoio**
 * 🛠️ **Crimpagem e montagem de cabos de rede RJ-45**
+* 🎫 **Gestão do ciclo de vida de Tickets/Chamados (abertura, acompanhamento, documentação e encerramento)**
+* 🔧 **Manutenção de hardware e diagnóstico de incidentes**
+* ⏱️ **Monitoramento e cumprimento de SLAs para garantir a agilidade e a excelência no atendimento ao usuário**
 * 🏪 **Suporte a ambientes de Automação Comercial e PDV**
 * 🖨️ **Suporte a impressoras térmicas, balanças e leitores**
-* 📝 **Criação de documentação técnica, base de conhecimento e materiais de apoio**
-* 🔧 **Troubleshooting e Diagnóstico de Sistemas**
-* ⚡ **Atuação orientada à redução do tempo de inatividade (*downtime*)**
+* 🖥️ **Suporte a sistemas operacionais Windows e Linux**
+* 🎧 **Suporte remoto e atendimento de Service Desk N1/N2 (triagem, priorização e escalonamento)**
+* 🔌 **Testes de conectividade e diagnóstico de problemas de rede (TCP/IP)**
+* 🔍 **Troubleshooting e Diagnóstico de Sistemas**
 
 ---
 
