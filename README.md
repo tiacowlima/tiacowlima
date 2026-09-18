@@ -10,7 +10,7 @@
 
 Atuo há mais de **10 anos em Suporte de TI, Redes e Automação Comercial**, com experiência em **Service Desk N1/N2, suporte remoto, manutenção de hardware e infraestrutura local**.
 
-Tenho experiência no **diagnóstico e resolução de incidentes**, gestão de **tickets e chamados** com foco no cumprimento rigoroso de **SLAs**, configuração e troubleshooting de redes TCP/IP, manutenção de equipamentos e suporte a ambientes críticos de varejo, incluindo **PDVs, computadores, impressoras térmicas, balanças e leitores**.
+Tenho ampla experiência no **diagnóstico e resolução de incidentes**, gestão de **tickets e chamados** com foco no cumprimento rigoroso de **SLAs**, configuração e troubleshooting de redes TCP/IP, manutenção de equipamentos e suporte a ambientes críticos de varejo, incluindo **PDVs, computadores, impressoras térmicas, balanças e leitores**.
 
 Meu objetivo é combinar **conhecimento técnico, agilidade e foco no usuário** para solucionar problemas de forma eficiente, reduzir o *downtime* e contribuir para a continuidade dos serviços e operações de TI.
 
