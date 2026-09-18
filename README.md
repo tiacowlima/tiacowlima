@@ -10,7 +10,7 @@
 
 Atuo há mais de **10 anos em Suporte de TI, Redes e Automação Comercial**, com experiência em **Service Desk N1/N2, suporte remoto, manutenção de hardware e infraestrutura local**.
 
-Tenho experiência no **diagnóstico e resolução de incidentes**, configuração e troubleshooting de redes TCP/IP, manutenção de equipamentos e suporte a ambientes críticos de varejo, incluindo **PDVs, computadores, impressoras térmicas, balanças e leitores**.
+Tenho experiência no **diagnóstico e resolução de incidentes**, gestão de **tickets e chamados** com foco no cumprimento rigoroso de **SLAs**, configuração e troubleshooting de redes TCP/IP, manutenção de equipamentos e suporte a ambientes críticos de varejo, incluindo **PDVs, computadores, impressoras térmicas, balanças e leitores**.
 
 Meu objetivo é combinar **conhecimento técnico, agilidade e foco no usuário** para solucionar problemas de forma eficiente, reduzir o *downtime* e contribuir para a continuidade dos serviços e operações de TI.
 
@@ -21,6 +21,7 @@ Meu objetivo é combinar **conhecimento técnico, agilidade e foco no usuário**
 Atualmente, direciono minha carreira para oportunidades em **Service Desk N1/N2, Suporte Técnico, Suporte Remoto e Infraestrutura de TI**.
 
 Estou ampliando meus conhecimentos em **programação e automação de processos**, buscando desenvolver soluções que contribuam para a otimização de rotinas e melhoria da eficiência operacional, além de aprofundar meus conhecimentos em programação.
+
 ---
 
 ## ✅ Objetivo
@@ -32,22 +33,24 @@ Estou ampliando meus conhecimentos em **programação e automação de processos
 ## ⚙️ Suporte Técnico & Redes Locais
 
 * 🖥️ **Suporte a sistemas operacionais Windows e Linux**
+* 🎧 **Suporte remoto e atendimento de Service Desk N1/N2 (triagem, priorização e escalonamento)**
+* 🎫 **Gestão do ciclo de vida de Tickets/Chamados (abertura, acompanhamento, documentação e encerramento)**
+* ⏱️ **Monitoramento e cumprimento de SLAs para garantir a agilidade e a excelência no atendimento ao usuário**
 * 🔧 **Manutenção de hardware e diagnóstico de incidentes**
-* 🎧 **Suporte remoto e atendimento de Service Desk N1/N2**
 * 🌐 **Configuração e troubleshooting de redes TCP/IP, LAN e WLAN**
 * 🔌 **Testes de conectividade e diagnóstico de problemas de rede**
 * 🛠️ **Crimpagem e montagem de cabos de rede RJ-45**
 * 🏪 **Suporte a ambientes de Automação Comercial e PDV**
 * 🖨️ **Suporte a impressoras térmicas, balanças e leitores**
-* 📝 **Criação de documentação técnica e materiais de apoio**
-* 🔧 **Troubleshooting e Diagnóstico de Sistemas** <EN>
+* 📝 **Criação de documentação técnica, base de conhecimento e materiais de apoio**
+* 🔧 **Troubleshooting e Diagnóstico de Sistemas**
 * ⚡ **Atuação orientada à redução do tempo de inatividade (*downtime*)**
 
 ---
 
 ## 💻 Linguagens e Automação — Em Aprendizado
 
-* 🌲**Cypress** - para teste QA Software
+* 🌲 **Cypress** - para teste QA Software
 * 🌐 **HTML** - criação de Landing page para teste
 * ⚡ **PowerShell** - automação e administração de ambientes Windows
 * 🐍 **Python** — automação de tarefas e otimização de rotinas
