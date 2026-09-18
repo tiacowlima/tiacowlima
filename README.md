@@ -38,7 +38,7 @@ Estou ampliando meus conhecimentos em **programação e automação de processos
 * 🛠️ **Crimpagem e montagem de cabos de rede RJ-45**
 * 🎫 **Gestão do ciclo de vida de Tickets/Chamados (abertura, acompanhamento, documentação e encerramento)**
 * 🔧 **Manutenção de hardware e diagnóstico de incidentes**
-* ⏱️ **Monitoramento e cumprimento de SLAs para garantir a agilidade e a excelência no atendimento ao usuário**
+* ⏱️ **Monitoramento e cumprimento de SLAs (prazo, resposta e solução para garantir a agilidade e a excelência no atendimento ao usuário)**
 * 🏪 **Suporte a ambientes de Automação Comercial e PDV**
 * 🖨️ **Suporte a impressoras térmicas, balanças e leitores**
 * 🖥️ **Suporte a sistemas operacionais Windows e Linux**
