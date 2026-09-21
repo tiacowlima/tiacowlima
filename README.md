@@ -12,7 +12,7 @@
 
 Especialista em **diagnóstico e resolução de incidentes**, gerenciamento de **tickets/chamados** e cumprimento rigoroso de **SLAs**. 
 
-Atuação estratégica na configuração e solução de problemas de redes TCP/IP, manutenção de equipamentos e suporte a ambientes críticos de varejo, **incluindo PDVs, computadores, impressoras térmicas, balanças comerciais e leitores**.
+Atuação estratégica na configuração e solução de problemas de redes TCP/IP, manutenção de equipamentos e suporte a ambientes críticos de varejo, **incluindo PDVs, computadores, impressoras térmicas KNF, balanças comerciais, scanners e leitores de mão.**.
 
 Meu foco é aliar **conhecimento técnico e agilidade a um atendimento remoto totalmente focado no usuário**, solucionando problemas de forma eficiente, reduzindo o downtime e garantindo a continuidade dos serviços e operações de TI.
 
