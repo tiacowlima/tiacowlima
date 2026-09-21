@@ -10,9 +10,9 @@
 
 **Profissional de Suporte de TI e Redes com mais de 10 anos de experiência sólida em Service Desk N1/N2, atendimento remoto, manutenção de hardware, infraestrutura local e automação comercial.**
 
-Tenho ampla experiência no **diagnóstico e na resolução de incidentes**, além do gerenciamento de **tickets/chamados** e tarefas com foco no cumprimento rigoroso de **SLAs**.
+Especialista em **diagnóstico e resolução de incidentes**, gerenciamento de **tickets/chamados** e cumprimento rigoroso de **SLAs**. 
 
-Atuo com configuração e solução de problemas de redes TCP/IP, manutenção de equipamentos e suporte a ambientes críticos de varejo, **incluindo PDVs, computadores, impressoras térmicas, balanças e leitores**.
+Atuação estratégica na configuração e solução de problemas de redes TCP/IP, manutenção de equipamentos e suporte a ambientes críticos de varejo, **incluindo PDVs, computadores, impressoras térmicas, balanças comerciais e leitores**.
 
 Meu foco é aliar **conhecimento técnico e agilidade a um atendimento remoto totalmente focado no usuário**, solucionando problemas de forma eficiente, reduzindo o downtime e garantindo a continuidade dos serviços e operações de TI.
 
@@ -34,18 +34,16 @@ Estou ampliando meus conhecimentos em **programação e automação de processos
 
 ## ⚙️ Suporte Técnico N1/N2 & Redes Locais
 
-* ⚡ **Atuação orientada à redução do tempo de inatividade (*downtime*)**
+* ⚡ **Atuação focada na redução do tempo de inatividade (downtime) e otimização de ambientes críticos de varejo.**
 * 🌐 **Configuração, troubleshooting e testes de conectividade em redes TCP/IP, LAN e WLAN**
-* 📝 **Criação de documentação técnica, base de conhecimento e materiais de apoio**
+* 📝 **Criação de documentação técnica, base de conhecimento e materiais de apoio.**
 * 🛠️ **Crimpagem e montagem de cabos de rede RJ-45**
-* 🎫 **Gestão do ciclo de vida de Tickets/Chamados (abertura, acompanhamento, documentação e encerramento)**
-* 🔧 **Manutenção de hardware e diagnóstico de incidentes**
-* ⏱️ **Monitoramento e cumprimento de SLAs (prazo, resposta e solução) para garantir a agilidade e a excelência no atendimento ao usuário**
-* 🏪 **Suporte a ambientes de Automação Comercial e PDV**
-* 🖨️ **Suporte a impressoras térmicas, balanças e leitores**
+* 🎫 **Gestão do ciclo de vida de tickets/chamados (abertura, acompanhamento, documentação e encerramento).**
+* ⏱️ **Foco no cumprimento rigoroso de SLAs (prazo, resposta e solução), para garantir a agilidade e a excelência, no atendimento ao usuário.**
+* 🔧 **Manutenção de hardware e diagnóstico preciso de incidentes em PDVs, computadores, impressoras térmicas, balanças comerciais e leitores.**
 * 🖥️ **Suporte a sistemas operacionais Windows e Linux**
 * 🎧 **Suporte remoto e atendimento de Service Desk N1/N2 (triagem, priorização e escalonamento)**
-* 🔍 **Troubleshooting e Diagnóstico de Sistemas**
+
 
 ---
 
